@@ -1,0 +1,290 @@
+#EXTM3U
+#EXTINF:-1 ,A&E HD
+http://160.20.164.171:8001/play/a091/index.m3u8
+#EXTINF:-1 ,AMC HD
+http://160.20.164.171:8001/play/a01u/index.m3u8
+#EXTINF:-1 ,America TV PY
+http://160.20.164.171:8001/play/a09h/index.m3u8
+#EXTINF:-1 ,Animal Planet HD
+http://160.20.164.171:8001/play/a01r/index.m3u8
+#EXTINF:-1 ,Antena 3
+http://160.20.164.171:8001/play/a037/index.m3u8
+#EXTINF:-1 ,AXN
+http://160.20.164.171:8001/play/a049/index.m3u8
+#EXTINF:-1 ,AXN
+http://160.20.164.171:8001/play/a03d/index.m3u8
+#EXTINF:-1 ,AZ click HD
+http://160.20.164.171:8001/play/a094/index.m3u8
+#EXTINF:-1 ,Azcorazon
+http://160.20.164.171:8001/play/a095/index.m3u8
+#EXTINF:-1 ,Azmundo
+http://160.20.164.171:8001/play/a093/index.m3u8
+#EXTINF:-1 ,Baby First
+http://160.20.164.171:8001/play/a02r/index.m3u8
+#EXTINF:-1 ,Baby TV
+http://160.20.164.171:8001/play/a08z/index.m3u8
+#EXTINF:-1 ,BBC World
+http://160.20.164.171:8001/play/a00l/index.m3u8
+#EXTINF:-1 ,Canal Estrellas
+http://160.20.164.171:8001/play/a054/index.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://160.20.164.171:8001/play/a003/index.m3u8
+#EXTINF:-1 ,Cartoonito
+http://160.20.164.171:8001/play/a005/index.m3u8
+#EXTINF:-1 ,CCN
+http://160.20.164.171:8001/play/a007/index.m3u8
+#EXTINF:-1 ,CDN2- RD
+http://160.20.164.171:8001/play/a02m/index.m3u8
+#EXTINF:-1 ,Cine Latino
+http://160.20.164.171:8001/play/a02a/index.m3u8
+#EXTINF:-1 ,CineCanal
+http://160.20.164.171:8001/play/a02c/index.m3u8
+#EXTINF:-1 ,CINECANAL HD
+http://160.20.164.171:8001/play/a07b/index.m3u8
+#EXTINF:-1 ,Cinemax
+http://160.20.164.171:8001/play/a047/index.m3u8
+#EXTINF:-1 ,CineMax
+http://160.20.164.171:8001/play/a02b/index.m3u8
+#EXTINF:-1 ,CNNE
+http://160.20.164.171:8001/play/a090/index.m3u8
+#EXTINF:-1 ,Comedy Central HD
+http://160.20.164.171:8001/play/a01i/index.m3u8
+#EXTINF:-1 ,CQ15tv
+http://160.20.164.171:8001/play/a03r/index.m3u8
+#EXTINF:-1 ,DHE HD
+http://160.20.164.171:8001/play/a01y/index.m3u8
+#EXTINF:-1 ,DISC THEATHER HD
+http://160.20.164.171:8001/play/a01f/index.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://160.20.164.171:8001/play/a015/index.m3u8
+#EXTINF:-1 ,Discovery Home & Health
+http://160.20.164.171:8001/play/a027/index.m3u8
+#EXTINF:-1 ,Discovery ID HD
+http://160.20.164.171:8001/play/a019/index.m3u8
+#EXTINF:-1 ,Discovery Kids HD
+http://160.20.164.171:8001/play/a03a/index.m3u8
+#EXTINF:-1 ,Discovery Science
+http://160.20.164.171:8001/play/a038/index.m3u8
+#EXTINF:-1 ,Discovery Turbo
+http://160.20.164.171:8001/play/a04j/index.m3u8
+#EXTINF:-1 ,Discovery Turbo
+http://160.20.164.171:8001/play/a026/index.m3u8
+#EXTINF:-1 ,Discovery World HD
+http://160.20.164.171:8001/play/a016/index.m3u8
+#EXTINF:-1 ,Disney
+http://160.20.164.171:8001/play/a024/index.m3u8
+#EXTINF:-1 ,Disney Channel
+http://160.20.164.171:8001/play/a05w/index.m3u8
+#EXTINF:-1 ,Disney JR
+http://160.20.164.171:8001/play/a006/index.m3u8
+#EXTINF:-1 ,E Entertainment
+http://160.20.164.171:8001/play/a04w/index.m3u8
+#EXTINF:-1 ,E! Entertairment HD
+http://160.20.164.171:8001/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="13 | ECUADOR TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",ECUADOR TV HD
+http://160.20.164.171:8001/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="13 | ECUAVISA" tvg-logo="htt://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",ECUAVISA
+http://160.20.164.171:8001/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="13 | ECUAVISA" tvg-logo="htt://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",ECUAVISA HQ
+http://160.20.164.171:8001/play/a07s/index.m3u8
+#EXTINF:-1 ,El Gourmet
+http://160.20.164.171:8001/play/a02u/index.m3u8
+#EXTINF:-1 ,ElCanaldelFutbol HD
+http://160.20.164.171:8001/play/a03z/index.m3u8
+#EXTINF:-1 ,Esne TV
+http://160.20.164.171:8001/play/a04k/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN
+http://160.20.164.171:8001/play/a09c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN  +
+http://160.20.164.171:8001/play/a00o/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 2 HD
+http://160.20.164.171:8001/play/a010/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 2 Latin
+http://160.20.164.171:8001/play/a09b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 3
+http://160.20.164.171:8001/play/a04l/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 3 HD
+http://160.20.164.171:8001/play/a00z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 3 LT
+http://160.20.164.171:8001/play/a075/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 4
+http://160.20.164.171:8001/play/a04r/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 4  HD
+http://160.20.164.171:8001/play/a02d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN CO
+http://160.20.164.171:8001/play/a04t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN HD
+http://160.20.164.171:8001/play/a00y/index.m3u8
+#EXTINF:-1 ,EWTN
+http://160.20.164.171:8001/play/a01n/index.m3u8
+#EXTINF:-1 ,Film & arts HD
+http://160.20.164.171:8001/play/a01t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,Fox Sports 2
+http://160.20.164.171:8001/play/a055/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,FOX SPORTS 2 HD
+http://160.20.164.171:8001/play/a01d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,Fox Sports 3
+http://160.20.164.171:8001/play/a056/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,FOX SPORTS 3 HD
+http://160.20.164.171:8001/play/a011/index.m3u8
+#EXTINF:-1 ,FUTV HD CR
+http://160.20.164.171:8001/play/a00x/index.m3u8
+#EXTINF:-1 ,FX
+http://160.20.164.171:8001/play/a04b/index.m3u8
+#EXTINF:-1 ,FX HD
+http://160.20.164.171:8001/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name=" GAMATV" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/gamatv-500x500.png" group-title="ECUADOR ",GAMATV
+http://160.20.164.171:8001/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12 | GOLTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR ",GOLTV SD
+http://160.20.164.171:8001/play/a050/index.m3u8
+#EXTINF:-1 ,Golden
+http://160.20.164.171:8001/play/a02y/index.m3u8
+#EXTINF:-1 ,Golden Premiere 2 HD
+http://160.20.164.171:8001/play/a07f/index.m3u8
+#EXTINF:-1 ,Golden Premiere HD
+http://160.20.164.171:8001/play/a07e/index.m3u8
+#EXTINF:-1 ,Golf Channel HD
+http://160.20.164.171:8001/play/a020/index.m3u8
+#EXTINF:-1 ,H2
+http://160.20.164.171:8001/play/a03j/index.m3u8
+#EXTINF:-1 ,HBO
+http://160.20.164.171:8001/play/a046/index.m3u8
+#EXTINF:-1 ,HBO Family HD
+http://160.20.164.171:8001/play/a072/index.m3u8
+#EXTINF:-1 ,HBO HD
+http://160.20.164.171:8001/play/a06z/index.m3u8
+#EXTINF:-1 ,HBO Plus HD
+http://160.20.164.171:8001/play/a071/index.m3u8
+#EXTINF:-1 ,HBO XTREME
+http://160.20.164.171:8001/play/a073/index.m3u8
+#EXTINF:-1 ,HBO2 HD
+http://160.20.164.171:8001/play/a070/index.m3u8
+#EXTINF:-1 ,History HD
+http://160.20.164.171:8001/play/a00n/index.m3u8
+#EXTINF:-1 ,HOLA! TV HD
+http://160.20.164.171:8001/play/a01h/index.m3u8
+#EXTINF:-1 ,Home & Health HD
+http://160.20.164.171:8001/play/a01g/index.m3u8
+#EXTINF:-1 ,Home Garden Latino
+http://160.20.164.171:8001/play/a03q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,Latin America Sport
+http://160.20.164.171:8001/play/a02x/index.m3u8
+#EXTINF:-1 ,Latina HD
+http://160.20.164.171:8001/play/a03y/index.m3u8
+#EXTINF:-1 ,LIFE TIME
+http://160.20.164.171:8001/play/a00f/index.m3u8
+#EXTINF:-1 ,MTV 00s HD
+http://160.20.164.171:8001/play/a01k/index.m3u8
+#EXTINF:-1 ,MTV 80s
+http://160.20.164.171:8001/play/a00i/index.m3u8
+#EXTINF:-1 ,MTV HD
+http://160.20.164.171:8001/play/a00p/index.m3u8
+#EXTINF:-1 ,MTV Hits
+http://160.20.164.171:8001/play/a00h/index.m3u8
+#EXTINF:-1 ,MTV SIM HD
+http://160.20.164.171:8001/play/a01j/index.m3u8
+#EXTINF:-1 ,Multicinema
+http://160.20.164.171:8001/play/a039/index.m3u8
+#EXTINF:-1 ,Multimedios
+http://160.20.164.171:8001/play/a06x/index.m3u8
+#EXTINF:-1 ,Multipremier
+http://160.20.164.171:8001/play/a09k/index.m3u8
+#EXTINF:-1 ,Multipremier HD
+http://160.20.164.171:8001/play/a021/index.m3u8
+#EXTINF:-1 ,Nat Geo HD
+http://160.20.164.171:8001/play/a012/index.m3u8
+#EXTINF:-1 ,National Geographic
+http://160.20.164.171:8001/play/a00e/index.m3u8
+#EXTINF:-1 ,NEXT - PAN
+http://160.20.164.171:8001/play/a02q/index.m3u8
+#EXTINF:-1 ,Nick Jr
+http://160.20.164.171:8001/play/a04i/index.m3u8
+#EXTINF:-1 ,Nick Jr
+http://160.20.164.171:8001/play/a004/index.m3u8
+#EXTINF:-1 ,Nick SIM HD
+http://160.20.164.171:8001/play/a01c/index.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://160.20.164.171:8001/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12 | OROMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR ",OROMAR TV
+http://160.20.164.171:8001/play/a07t/index.m3u8
+#EXTINF:-1 ,Paramount HD
+http://160.20.164.171:8001/play/a013/index.m3u8
+#EXTINF:-1 ,Pasiones HD
+http://160.20.164.171:8001/play/a017/index.m3u8
+#EXTINF:-1 ,RCN - GUA
+http://160.20.164.171:8001/play/a035/index.m3u8
+#EXTINF:-1 ,RCN Novelas
+http://160.20.164.171:8001/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="08 | RTS ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR ",RTS ECUADOR
+http://160.20.164.171:8001/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="13 | RTU" tvg-logo="htt://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",RTU
+http://160.20.164.171:8001/play/a07r/index.m3u8
+#EXTINF:-1 ,Sembrador
+http://160.20.164.171:8001/play/a033/index.m3u8
+#EXTINF:-1 ,Sony
+http://160.20.164.171:8001/play/a048/index.m3u8
+#EXTINF:-1 ,SONY HD
+http://160.20.164.171:8001/play/a07a/index.m3u8
+#EXTINF:-1 ,Sony Movies HD
+http://160.20.164.171:8001/play/a01x/index.m3u8
+#EXTINF:-1 ,Space
+http://160.20.164.171:8001/play/a04a/index.m3u8
+#EXTINF:-1 ,SPACE HD
+http://160.20.164.171:8001/play/a02e/index.m3u8
+#EXTINF:-1 ,STAR CHANNEL HD
+http://160.20.164.171:8001/play/a078/index.m3u8
+#EXTINF:-1 ,Star TVE HD
+http://160.20.164.171:8001/play/a01z/index.m3u8
+#EXTINF:-1 ,Studio Universal HD
+http://160.20.164.171:8001/play/a01p/index.m3u8
+#EXTINF:-1 ,Sun Channel
+http://160.20.164.171:8001/play/a02v/index.m3u8
+#EXTINF:-1 ,TBN Enlace
+http://160.20.164.171:8001/play/a00m/index.m3u8
+#EXTINF:-1 ,TBS
+http://160.20.164.171:8001/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="08 | TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR ",TC TELEVISION HD
+http://160.20.164.171:8001/play/a009/index.m3u8
+#EXTINF:-1 ,TCM
+http://160.20.164.171:8001/play/a02z/index.m3u8
+#EXTINF:-1 ,TD+2 HD CR
+http://160.20.164.171:8001/play/a07d/index.m3u8
+#EXTINF:-1 ,TD+HD CR
+http://160.20.164.171:8001/play/a07c/index.m3u8
+#EXTINF:-1 ,Teen Nick HD
+http://160.20.164.171:8001/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="25 | TELEAMAZONAS HQ" tvg-logo="https://havanatimesenespanol.org/wp-content/uploads/2020/06/teleamazonas-1280x720.png" group-title="ECUADOR ",TELEAMAZONAS
+http://160.20.164.171:8001/play/a00c/index.m3u8
+#EXTINF:-1 ,Telecentro - RD
+http://160.20.164.171:8001/play/a02o/index.m3u8
+#EXTINF:-1 ,Telemundo HD
+http://160.20.164.171:8001/play/a01v/index.m3u8
+#EXTINF:-1 ,Telenovelas
+http://160.20.164.171:8001/play/a00r/index.m3u8
+#EXTINF:-1 ,Teleunion - RD
+http://160.20.164.171:8001/play/a02p/index.m3u8
+#EXTINF:-1 ,Teleuniverso - RD
+http://160.20.164.171:8001/play/a02n/index.m3u8
+#EXTINF:-1 ,Televida RD
+http://160.20.164.171:8001/play/a06w/index.m3u8
+#EXTINF:-1 ,TLC
+http://160.20.164.171:8001/play/a077/index.m3u8
+#EXTINF:-1 ,TNT HD
+http://160.20.164.171:8001/play/a01e/index.m3u8
+#EXTINF:-1 ,TNT Series HD
+http://160.20.164.171:8001/play/a014/index.m3u8
+#EXTINF:-1 ,Tooncast
+http://160.20.164.171:8001/play/a092/index.m3u8
+#EXTINF:-1 ,Tru TV
+http://160.20.164.171:8001/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17 | TVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/TVC_logo.png" group-title="ECUADOR ",TVC
+http://160.20.164.171:8001/play/a07u/index.m3u8
+#EXTINF:-1 ,TVChile
+http://160.20.164.171:8001/play/a03p/index.m3u8
+#EXTINF:-1 ,TyC
+http://160.20.164.171:8001/play/a051/index.m3u8
+#EXTINF:-1 ,Universal
+http://160.20.164.171:8001/play/a029/index.m3u8
+#EXTINF:-1 ,UNIVERSAL COMEDY
+http://160.20.164.171:8001/play/a032/index.m3u8
+#EXTINF:-1 
